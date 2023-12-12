@@ -20,7 +20,7 @@ Lista de tudo que foi usado nesse curso:
 
 E muito mais!
 
-## 📚 Mais informações do curso
+## 📚 Mais informações do Projeto
 
 O Freelando é uma StartUP fictícia utilizada nesse curso da Alura.
 A ideia principal desse curso é evoluir ainda mais os conhecimentos em React e estilização de componentes.
