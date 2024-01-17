@@ -22,5 +22,5 @@ E muito mais!
 
 ## 📚 Mais informações do Projeto
 
-O Freelando é uma StartUP fictícia utilizada nesse curso da Alura.
+O Freelando é uma StartUP fictícia.
 A ideia principal desse curso é evoluir ainda mais os conhecimentos em React e estilização de componentes.
