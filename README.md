@@ -7,7 +7,7 @@ Nesse momento, é um MVP que tá só começando e ainda tem muitas funcionalidad
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Lista de tudo que foi usado nesse curso:
+Lista de tudo que foi usado nesse projeto:
 
 - `React`
 - `Create React App`
@@ -23,4 +23,5 @@ E muito mais!
 ## 📚 Mais informações do Projeto
 
 O Freelando é uma StartUP fictícia.
+##
 A ideia principal desse curso é evoluir ainda mais os conhecimentos em React e estilização de componentes.
